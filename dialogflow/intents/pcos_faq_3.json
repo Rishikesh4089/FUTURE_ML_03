@@ -1,0 +1,35 @@
+{
+  "id": "6b6460ab-daa8-4fca-b149-0af19113ffa4",
+  "name": "pcos_faq_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Diagnosing PCOS usually involves looking at your medical history, a physical exam, blood tests (to check hormone levels), and often an ultrasound to look at your ovaries. Typically, doctors look for at least two out of three key criteria (irregular periods, signs of high androgens, polycystic ovaries on ultrasound). Getting clarity can be a relief."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

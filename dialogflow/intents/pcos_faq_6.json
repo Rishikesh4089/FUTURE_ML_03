@@ -1,0 +1,35 @@
+{
+  "id": "b9d6c76a-2b5f-4e05-b13d-ccc0b4f9ed39",
+  "name": "pcos_faq_6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Irregular periods can happen for many reasons! Stress, significant weight changes, intense exercise, thyroid issues, certain medications, conditions like PCOS, or even perimenopause can affect your cycle. It\u0027s a good idea to track your cycles and chat with a healthcare provider to explore potential causes if it\u0027s a consistent pattern. They can help figure out what\u0027s going on with your unique body."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6c090b27-4a84-416d-8301-d1a4f5a64711",
+  "name": "pcos_faq_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Common signs include irregular or missed periods, weight gain (especially around the middle), acne, excess hair growth (hirsutism) on the face or body, thinning hair on the scalp, and sometimes challenges with fertility. Remember, not everyone has all symptoms! It\u0027s best to chat with a doctor if you have concerns. 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

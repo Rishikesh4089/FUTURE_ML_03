@@ -1,0 +1,35 @@
+{
+  "id": "3082fa1b-db7d-4c4a-a612-73193309d743",
+  "name": "pcos_faq_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "PCOS stands for Polycystic Ovary Syndrome. It\u0027s a common hormonal condition affecting many women, often involving irregular periods, excess androgens (hormones that can cause symptoms like acne or hair growth), and/or cysts on the ovaries. It\u0027s different for everyone, but know that support and management options are available. ❤️"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "83fb1ab2-16ac-4745-bcd4-f0dc9fc88a28",
+  "name": "pcos_faq_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "While there isn\u0027t a \u0027cure\u0027 for PCOS right now, it\u0027s definitely manageable! Many women find relief and improve their health through lifestyle changes like diet and exercise, medications (like birth control or metformin), and focusing on stress reduction. It\u0027s about finding what works best for your unique body. You\u0027ve got this! ✨"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

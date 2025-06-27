@@ -1,0 +1,35 @@
+{
+  "id": "92d4e3ca-f303-43de-a85d-0e8563e7f240",
+  "name": "pcos_faq_5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Many find focusing on whole, unprocessed foods beneficial. Think plenty of fiber (veggies, legumes, whole grains), lean protein, and healthy fats. Reducing sugary drinks and refined carbs can help manage insulin levels, which is often important with PCOS. Anti-inflammatory foods like berries and fatty fish may also be helpful. It\u0027s about balance and finding sustainable habits!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
