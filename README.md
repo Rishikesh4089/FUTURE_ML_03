@@ -42,7 +42,7 @@ The chatbot is embedded in the Lyra app using:
 <df-messenger>
   intent="WELCOME"
   chat-title="Lyra"
-  agent-id="YOUR-AGENT-ID"
+  agent-id="YOUR-AGENT-ID" #create a new agent on DialogFlow with the given intent files and add the agent ID here.
   language-code="en"
   chat-icon="https://yourdomain.com/static/images/pcos_avatar.png"
   chat-background-color="#fff8f2"
